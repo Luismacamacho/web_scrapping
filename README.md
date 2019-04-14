@@ -1,2 +1,1 @@
-# web_scrapping
-Practica Web Scrapping UOc
+# Práctica 1 : Web Scrapping
