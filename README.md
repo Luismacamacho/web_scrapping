@@ -6,7 +6,7 @@ Esta práctica se ha realizado bajo el contexto de la asignatura Tipología y ci
 
 ## Miembros del equipo
 
-La actividad ha sido realizada por Luis Manuel Camacho Puerma y Carla Comas Garcia.
+La actividad ha sido realizada por Carla Comas Garcia y Luis Manuel Camacho Puerma.
 
 ## Recursos
 
